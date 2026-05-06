@@ -10,9 +10,4 @@ The UniFi OS Server is the new standard for self-hosting UniFi, replacing the le
 
 [Descargar UniFi Network Application 10.3.58](https://get.glennr.nl/unifi/install/unifi-10.3.58.sh)
 
-
-<a href="https://get.glennr.nl/unifi/install/unifi-10.3.58.sh" download>Haz clic aquí para descargar directamente</a>
-
-<a href="https://get.glennr.nl/unifi/install/unifi-10.3.58.sh" download>
-   <button>📥 Descargar instalador UniFi</button>
-</a>
+[📥 Descargar Script UniFi 10.3.58](https://raw.githubusercontent.com/TU_USUARIO/TU_REPOSITORIO/main/Unifi/Utils/unifi-10.3.58.sh)
